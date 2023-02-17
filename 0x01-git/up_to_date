@@ -1,1 +1,0 @@
--git clone;git config --global;git add . or git add 'file_name';git commit -m 'description of commit';;git commit --amend;git commit --amend -m 'new_description';git push;git checkout;git branch
